@@ -1,1 +1,1 @@
-# Quiz-application-Using-Java
+# Quiz-application-Using-Java-JDBC
